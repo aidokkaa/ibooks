@@ -1,0 +1,14 @@
+.pay{
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+.imgPay{
+    width: 200px;
+    margin-bottom: 30px;
+
+}
+.cont-pay{
+    width: 80%;
+    min-height: 400px;
+    margin: 40px auto;
+}

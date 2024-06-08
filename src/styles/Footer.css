@@ -1,0 +1,65 @@
+.contacts{
+    margin-top: 70px;
+    display: flex;
+    justify-content: flex-end;
+    background-color: #eee;
+    gap: 180px;
+    height: 450px;
+}
+.info h2{
+    font-size: 16.5px;
+}
+.info{
+    margin-top: 40px;
+}
+.help{
+    margin-top: 40px;
+}
+.our-contact{
+    margin-top: 40px;
+}
+.help h3{
+    font-size: 16.5px; 
+}
+.our-contact h3{
+    font-size: 16.5px;
+}
+.tel{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 90px;
+    margin-top: 40px;
+}
+.tel img{
+    width: 30px;
+    height: 30px;
+}
+.icons img{
+    width: 30px;
+    height: 30px;
+    margin-left: 20px;
+}
+.icons{
+    margin-top: 30px;
+}
+.our-contact p{
+    margin-top: 40px;
+}
+@media(max-width:900px){
+  .info{
+    display: none;
+  }
+  .help{
+    display: none;
+  }
+  .our-contact{
+    margin: 40px auto;
+    text-align: center;
+  }
+  .tel{
+    text-align: center;
+    margin: 40px auto;
+  }
+
+}

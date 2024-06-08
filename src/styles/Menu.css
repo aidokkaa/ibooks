@@ -1,0 +1,28 @@
+.flex{
+    display: flex;
+    justify-content: space-around;
+    height: 50px;
+    border: 1px solid black;   margin-top: 40px;
+}
+.flex a{
+    width:140px;
+    padding: 14px;
+    list-style-type: none;
+    text-align: center;
+    font-size: 15px;
+    margin-right: 85px;
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
+.active{
+    background-color: black;
+    color: #fff;
+    padding: 10px;
+}
+@media(max-width:800px){
+    .flex{
+        display: none;
+    }
+}
+

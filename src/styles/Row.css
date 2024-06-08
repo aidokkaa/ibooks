@@ -1,0 +1,14 @@
+.row{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 150px;
+    width: 100%;
+    min-height: 150px;
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5)
+}
+@media(max-width:800px){
+  .row{
+    display: flex;
+    flex-wrap: wrap;
+  }
+}

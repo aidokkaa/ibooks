@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+}
+.item-book{
+    width: 230px;
+    min-height: 300px;
+    padding: 10px;
+    border: 1px solid #eee;
+}
+.item-book img{
+    display: block;
+    margin: 3px auto 0 auto;
+    width: 120px;
+}
+h5{
+  text-align: center;
+  font-size: 15px;
+  margin-top: 25px;
+}
+h4{
+  text-align: center;
+}
+.btn{
+    margin: 14px auto;
+    background-color: #eee;
+    width: 130px;
+    padding: 2px;
+    border-radius: 5px;
+    display: flex;
+    cursor: pointer;
+    justify-content: space-around;
+}
+.count{
+    border-radius: 50%;
+    border: 1px solod black;
+    width: 25px;
+    height: 24px;
+    text-align: center;
+}
+.count:hover{
+    background-color: orange;
+}
+.row-green {
+    width: 50px;
+    padding: 3px;
+    background-color: green;
+    border-radius: 5px;
+    text-align: center;
+     position: relative;
+     display: inline-block;
+     top: 50px;
+    font-size: 10px;
+    line-height: 12px;
+    padding: 5px 10px 4px;
+}
+.row-green1{
+    width: 50px;
+    padding: 3px;
+    background-color: green;
+    border-radius: 5px;
+    text-align: center;
+    position: absolute;
+    top: 35px;
+    left: 295px;
+}
+.row-green2{
+    width: 50px;
+    padding: 3px;
+    background-color: green;
+    border-radius: 5px;
+    text-align: center;
+    position: absolute;
+    top: 35px;
+    left: 540px;
+}
+.row-green3{
+    width: 50px;
+    padding: 3px;
+    background-color: green;
+    border-radius: 5px;
+    text-align: center;
+    position: absolute;
+    top: 35px;
+    left: 800px;
+}
+.row-green4{
+    width: 50px;
+    padding: 3px;
+    background-color: green;
+    border-radius: 5px;
+    text-align: center;
+    position: absolute;
+    top: 35px;
+    left: 1050px;
+}
+.text{
+    cursor: pointer;
+}
+.btnDet{
+  display: block;
+  margin: 16px auto;
+  cursor: pointer;
+}

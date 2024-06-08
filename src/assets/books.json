@@ -1,0 +1,82 @@
+[
+    {
+     "id": 0,
+     "imageUrl": "https://bestseller.kz/upload/resize_cache/iblock/939/170_170_1/ox8xl0t216aoxd5my1dd1mxghgsygu7l.webp",
+     "title": "Дети Моря",
+     "price": 1803,
+     "category": 1,
+     "rating": 4
+    },
+    {
+     "id": 1,
+     "imageUrl": "https://bestseller.kz/upload/resize_cache/iblock/e59/170_170_1/yv416rfizss0nb1w9ax3cq2m37y6tonr.jpg",
+     "title": "Серебряный пояс",
+     "price": 1245,
+     "category": 2,
+     "rating": 6
+    },
+    {
+     "id": 2,
+     "imageUrl": "https://bestseller.kz/upload/resize_cache/iblock/66a/170_170_1/p24dt7z3bb46gpbrgsktp5whuo2inmzg.jpg",
+     "title": "Сибирский амулет",
+     "price": 1295,
+     "category": 1,
+     "rating": 4
+    },
+    {
+     "id": 3,
+     "imageUrl": "https://bestseller.kz/upload/resize_cache/iblock/41e/170_170_1/w2smo47ihzjxza28x9jvrq0p0o7v5p37.jpg",
+     "title": "Бушующая стихия",
+     "price": 1275,
+     "category": 2,
+     "rating": 2
+    },
+    {
+     "id": 4,
+     "imageUrl": "https://bestseller.kz/upload/resize_cache/iblock/3bd/170_170_1/54vu8juggi8h9pt6sm3jecqfp2aq28xz.jpg",
+     "title": "Шедевры еврейской мудрости",
+     "price": 5415,
+     "category": 3,
+     "rating": 8
+    },
+    {
+     "id": 5,
+     "imageUrl": "https://bestseller.kz/upload/resize_cache/iblock/57c/170_170_1/57c1c71bdbcd38a5642d62ce7c6966e7.jpg",
+     "title": "Так говорил Альберт Эйнштейн",
+     "price": 1580,
+     "category": 2,
+     "rating": 2
+    },
+    {
+     "id": 6,
+     "imageUrl": "https://bestseller.kz/upload/resize_cache/iblock/dce/170_170_1/dce81f9fe77145a819e98b675c8302b9.jpg",
+     "title": "Афоризмы",
+     "price": 2675,
+     "category": 1,
+     "rating": 9
+    },
+    {
+     "id": 7,
+     "imageUrl": "https://bestseller.kz/upload/resize_cache/iblock/b28/170_170_1/b28b08fb99113d66c93cfea790b9c050.jpg",
+     "title": "Искусство политики",
+     "price": 1450,
+     "category": 4,
+     "rating": 10
+    },
+    {
+     "id": 8,
+     "imageUrl": "https://bestseller.kz/upload/resize_cache/iblock/04e/170_170_1/04ee3785847c9039deedccf372751322.jpg",
+     "title": "Мамами не рождаются",
+     "price": 4495,
+     "category": 5,
+     "rating": 10
+    },
+    {
+     "id": 9,
+     "imageUrl": "https://bestseller.kz/upload/resize_cache/iblock/b61/170_170_1/b6150a606e9f498dc6a02ffc401eb95f.jpg",
+     "title": "Наши дети.Азбука семьи",
+     "price": 1285,
+     "category": 5,
+     "rating": 7
+    }
+   ]

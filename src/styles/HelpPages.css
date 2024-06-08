@@ -1,0 +1,17 @@
+.container-help{
+    width: 90%;
+  margin: 70px auto;
+}
+.first{
+  color: black;
+  font-size: 30px;
+  margin-bottom: 25px;
+}
+.second{
+    color: blue;
+    margin-bottom: 25px;
+    font-size: 28px;
+}
+p{
+    line-height: 30px;
+}
